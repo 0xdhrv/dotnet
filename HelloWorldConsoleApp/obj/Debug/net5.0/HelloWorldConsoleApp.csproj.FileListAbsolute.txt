@@ -1,0 +1,16 @@
+C:\Users\dhrv\Desktop\Trainings\DOTNET\HelloWorldConsoleApp\bin\Debug\net5.0\HelloWorldConsoleApp.exe
+C:\Users\dhrv\Desktop\Trainings\DOTNET\HelloWorldConsoleApp\bin\Debug\net5.0\HelloWorldConsoleApp.deps.json
+C:\Users\dhrv\Desktop\Trainings\DOTNET\HelloWorldConsoleApp\bin\Debug\net5.0\HelloWorldConsoleApp.runtimeconfig.json
+C:\Users\dhrv\Desktop\Trainings\DOTNET\HelloWorldConsoleApp\bin\Debug\net5.0\HelloWorldConsoleApp.runtimeconfig.dev.json
+C:\Users\dhrv\Desktop\Trainings\DOTNET\HelloWorldConsoleApp\bin\Debug\net5.0\HelloWorldConsoleApp.dll
+C:\Users\dhrv\Desktop\Trainings\DOTNET\HelloWorldConsoleApp\bin\Debug\net5.0\ref\HelloWorldConsoleApp.dll
+C:\Users\dhrv\Desktop\Trainings\DOTNET\HelloWorldConsoleApp\bin\Debug\net5.0\HelloWorldConsoleApp.pdb
+C:\Users\dhrv\Desktop\Trainings\DOTNET\HelloWorldConsoleApp\obj\Debug\net5.0\HelloWorldConsoleApp.csprojAssemblyReference.cache
+C:\Users\dhrv\Desktop\Trainings\DOTNET\HelloWorldConsoleApp\obj\Debug\net5.0\HelloWorldConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhrv\Desktop\Trainings\DOTNET\HelloWorldConsoleApp\obj\Debug\net5.0\HelloWorldConsoleApp.AssemblyInfoInputs.cache
+C:\Users\dhrv\Desktop\Trainings\DOTNET\HelloWorldConsoleApp\obj\Debug\net5.0\HelloWorldConsoleApp.AssemblyInfo.cs
+C:\Users\dhrv\Desktop\Trainings\DOTNET\HelloWorldConsoleApp\obj\Debug\net5.0\HelloWorldConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\dhrv\Desktop\Trainings\DOTNET\HelloWorldConsoleApp\obj\Debug\net5.0\HelloWorldConsoleApp.dll
+C:\Users\dhrv\Desktop\Trainings\DOTNET\HelloWorldConsoleApp\obj\Debug\net5.0\ref\HelloWorldConsoleApp.dll
+C:\Users\dhrv\Desktop\Trainings\DOTNET\HelloWorldConsoleApp\obj\Debug\net5.0\HelloWorldConsoleApp.pdb
+C:\Users\dhrv\Desktop\Trainings\DOTNET\HelloWorldConsoleApp\obj\Debug\net5.0\HelloWorldConsoleApp.genruntimeconfig.cache
